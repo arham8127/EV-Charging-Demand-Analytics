@@ -1,0 +1,31 @@
+EV Charging Station Demand Analytics Report
+
+Project Objective
+Analyze electric vehicle adoption trends and charging infrastructure data.
+
+Datasets Used
+1. EV Population Dataset
+2. Charging Stations Dataset
+
+Analysis Performed
+- EV Growth Trend Analysis
+- Top EV Brands Analysis
+- EV Type Distribution
+- Electric Range Distribution
+- Charging Station Distribution
+- Charging Station Map Visualization
+
+Key Insights
+- EV adoption is increasing every year.
+- Tesla is one of the leading EV brands.
+- Battery Electric Vehicles dominate the EV market.
+- Fast chargers are the most commonly used charging stations.
+
+Tools Used
+Python
+Pandas
+Matplotlib
+Folium
+
+Conclusion
+EV adoption is rapidly growing and charging infrastructure will need to expand to meet future demand.
