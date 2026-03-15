@@ -61,22 +61,36 @@ The project generates multiple charts and visualizations including:
 
 ##  Project Structure
 
-EV_Charging_Demand_Analytics
-│
-├── data
-│ ├── raw
-│ └── cleaned
-│
-├── scripts
-│
-├── outputs
-│ ├── charts
-│ └── charging_station_map.html
-│
-└── README.md
+- **data/**
+  - **raw/**
+    - EV_Population.csv
+    - charging_stations.csv
+  - **cleaned/**
+    - ev_population_cleaned.csv
 
+- **scripts/**
+  - inspect_data.py
+  - data_cleaning.py
+  - ev_growth_analysis.py
+  - top_ev_brands.py
+  - ev_type_analysis.py
+  - ev_range_analysis.py
+  - charging_station_analysis.py
+  - charging_station_map.py
+  - charging_station_insights.py
+  - final_summary.py
 
----
+- **outputs/**
+  - **charts/**
+    - ev_growth_trend.png
+    - top_ev_brands.png
+    - ev_type_distribution.png
+    - ev_range_distribution.png
+    - charging_station_distribution.png
+  - charging_station_map.html
+  - **reports/**
+    - analysis_report.txt
+
 
 ##  Key Insights
 
