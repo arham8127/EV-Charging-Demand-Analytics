@@ -88,7 +88,7 @@ The project generates multiple charts and visualizations including:
     - ev_range_distribution.png
     - charging_station_distribution.png
     - ## Power BI Dashboard
-- ![Dashboard](outputs/charts/dashboard.png)
+- ![Dashboard](outputs/charts/dashboard_1.png)
 - (https://app.powerbi.com/groups/me/reports/4efe6575-1d8d-4dc1-a405-882353148a60/623ce896de0200ea5600?experience=power-bi)
   - charging_station_map.html
   - **reports/**
