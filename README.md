@@ -84,12 +84,12 @@ The project generates multiple charts and visualizations including:
 - model.pkl
 - model_price.pkl
 - model_range.pkl
-- data_preperation.py
-- evaluate_model.py
-- feature_engineering.py
-- predict.py
-- train_model.py
-- utils.py
+ - data_preperation.py
+ - evaluate_model.py
+ - feature_engineering.py
+ - predict.py
+ - train_model.py
+ - utils.py
  
 - **scripts/**
   - inspect_data.py
