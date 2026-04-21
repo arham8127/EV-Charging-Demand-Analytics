@@ -36,6 +36,15 @@ The following analyses were performed in this project:
 
 ---
 
+##  Features
+- Price and Range Prediction using ML models
+- Location-based analysis for EV charging stations
+- Data visualization using graphs and dashboards
+- Optimized charging infrastructure planning
+- Supports sustainable and smart city development
+
+---
+
 ##  Visualizations Generated
 
 The project generates multiple charts and visualizations including:
@@ -56,9 +65,11 @@ The project generates multiple charts and visualizations including:
 - **Matplotlib**
 - **Folium**
 - **Git & GitHub**
+- **Scikit-learn**
+- **Matplotlib / Seaborn**
+- **Streamlit (for web app)**
 
 ---
-
 ##  Project Structure
 
 - **data/**
@@ -67,7 +78,19 @@ The project generates multiple charts and visualizations including:
     - charging_stations.csv
   - **cleaned/**
     - ev_population_cleaned.csv
-
+   
+- **ml_model**
+  -**models**
+   - model.pkl
+   - model_price.pkl
+   - model_range.pkl
+  - data_preperation.py
+  - evaluate_model.py
+  - feature_engineering.py
+  - predict.py
+  - train_model.py
+  - utils.py
+ 
 - **scripts/**
   - inspect_data.py
   - data_cleaning.py
@@ -105,12 +128,16 @@ The project generates multiple charts and visualizations including:
 
 ---
 
+##  How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
 ##  Future Improvements
 
 Possible improvements for this project include:
 
-- Adding EV demand prediction using Machine Learning
-- Building an interactive dashboard using Power BI or Streamlit
 - Integrating real-time EV charging station data
 - Performing geospatial demand analysis
 
@@ -118,7 +145,7 @@ Possible improvements for this project include:
 
 ##  Author
 
-**Arham Ali**
+- **Arham Ali**
 
-GitHub:  
-https://github.com/arham8127
+- GitHub:  
+- https://github.com/arham8127
