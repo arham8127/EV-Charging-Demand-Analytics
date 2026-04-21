@@ -79,8 +79,8 @@ The project generates multiple charts and visualizations including:
   - **cleaned/**
     - ev_population_cleaned.csv
    
-- **ml_model**
-  -**models**
+- **ml_model/**
+  -**models/**
    - model.pkl
    - model_price.pkl
    - model_range.pkl
