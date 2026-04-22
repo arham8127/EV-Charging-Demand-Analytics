@@ -147,5 +147,4 @@ Possible improvements for this project include:
 
 - **Arham Ali**
 
-- GitHub:  
-- https://github.com/arham8127
+- GitHub: https://github.com/arham8127
