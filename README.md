@@ -26,7 +26,6 @@ The India-focused analytics module covers five major cities:
 - Matplotlib
 - Streamlit
 - Scikit-learn
-- Power BI
 - Machine Learning
 - CSV Data Processing
 
@@ -128,8 +127,6 @@ EV-Charging-Demand-Analytics/
 │       └── city_energy_demand.png
 │
 └── assets/
-    ├── powerbi-dashboard-1.png
-    └── powerbi-dashboard-2.png
 ```
 
 ---
@@ -184,20 +181,6 @@ The Streamlit dashboard provides two main modules:
 
 ---
 
-## Power BI Dashboard
-
-The project also includes Power BI dashboards to present EV analytics insights through interactive data visualizations.
-
-### Dashboard 1 – EV Analytics Overview
-
-![EV Analytics Power BI Dashboard 1](assets/powerbi-dashboard-1.png)
-
-### Dashboard 2 – EV Analytics Detailed Analysis
-
-![EV Analytics Power BI Dashboard 2](assets/powerbi-dashboard-2.png)
-
----
-
 ## Output and Results
 
 The project generates:
@@ -206,7 +189,6 @@ The project generates:
 - Charging sessions comparison graph
 - Energy demand comparison graph
 - Interactive Streamlit dashboard
-- Power BI dashboard visualizations
 - City-wise demand insights
 
 ---
@@ -237,7 +219,7 @@ The project generates:
 
 This project demonstrates how data analytics, visualization, and machine learning can be used to understand EV adoption patterns and estimate charging infrastructure requirements.
 
-By combining EV prediction features with city-wise charging demand analysis and Power BI visualizations, the project provides a foundation for further research and development in electric vehicle analytics and smart charging infrastructure planning.
+By combining EV prediction features with city-wise charging demand analysis, the project provides a foundation for further research and development in electric vehicle analytics and smart charging infrastructure planning.
 
 ---
 
@@ -245,6 +227,4 @@ By combining EV prediction features with city-wise charging demand analysis and 
 
 **Arham Ali**
 
-GitHub: [arham8127](https://github.com/arham8127)
-
-Project Repository: [EV-Charging-Demand-Analytics](https://github.com/arham8127/EV-Charging-Demand-Analytics)
+GitHub: https://github.com/arham8127 iss readme.md file me powerbi ki dono imgs bhi add kro
