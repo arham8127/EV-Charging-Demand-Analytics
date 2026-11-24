@@ -1,0 +1,501 @@
+Station_ID,City,State,Station_Name,Latitude,Longitude,Charger_Type,Power_kW,Total_Chargers,Available_Chargers,Operator,Status,Data_Type
+SIM-0001,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 001,26.863459,80.882091,Bharat DC-001,15,2,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0002,Lucknow,Uttar Pradesh,Lucknow Charging Point 002,26.829307,80.945164,CCS2,60,8,7,GreenPlug,Operational,SYNTHETIC
+SIM-0003,Lucknow,Uttar Pradesh,Lucknow EV Hub 003,26.872413,80.89323,Type 2,7,6,1,CityCharge,Operational,SYNTHETIC
+SIM-0004,Lucknow,Uttar Pradesh,Lucknow Charging Point 004,26.809249,81.021562,Bharat DC-001,15,2,1,ChargeGrid,Operational,SYNTHETIC
+SIM-0005,Lucknow,Uttar Pradesh,Lucknow EV Hub 005,26.8694,80.972758,Type 2,22,2,2,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0006,Lucknow,Uttar Pradesh,Lucknow EV Hub 006,26.908793,80.939176,CCS2,50,6,6,GreenPlug,Operational,SYNTHETIC
+SIM-0007,Lucknow,Uttar Pradesh,Lucknow EV Hub 007,26.782284,80.979682,Bharat DC-001,15,4,4,CityCharge,Operational,SYNTHETIC
+SIM-0008,Lucknow,Uttar Pradesh,Lucknow Charging Point 008,26.858998,80.988051,CCS2,120,4,2,CityCharge,Operational,SYNTHETIC
+SIM-0009,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 009,26.82083,80.906817,CCS2,50,6,4,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0010,Lucknow,Uttar Pradesh,Lucknow Charging Point 010,26.828281,80.956233,Type 2,22,2,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0011,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 011,26.893889,80.934407,Bharat DC-001,15,2,2,VoltWay,Operational,SYNTHETIC
+SIM-0012,Lucknow,Uttar Pradesh,Lucknow Charging Point 012,26.884677,80.919862,Bharat DC-001,15,4,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0013,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 013,26.826732,80.922668,Type 2,11,2,2,ChargeGrid,Operational,SYNTHETIC
+SIM-0014,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 014,26.871259,80.987217,CCS2,50,4,3,ChargeGrid,Operational,SYNTHETIC
+SIM-0015,Lucknow,Uttar Pradesh,Lucknow Charging Point 015,26.773952,80.884726,Bharat DC-001,15,2,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0016,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 016,26.887263,80.888648,CCS2,30,8,1,VoltWay,Operational,SYNTHETIC
+SIM-0017,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 017,26.870593,80.960855,CCS2,60,6,3,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0018,Lucknow,Uttar Pradesh,Lucknow EV Hub 018,26.847902,81.04494,Type 2,7,4,3,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0019,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 019,26.892631,80.968199,CCS2,30,2,0,E-Mobility Hub,Under Maintenance,SYNTHETIC
+SIM-0020,Lucknow,Uttar Pradesh,Lucknow EV Hub 020,26.770982,80.985353,CCS2,30,4,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0021,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 021,26.95652,81.125823,CHAdeMO,60,4,4,VoltWay,Operational,SYNTHETIC
+SIM-0022,Lucknow,Uttar Pradesh,Lucknow Charging Point 022,26.823855,80.908468,CCS2,50,8,4,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0023,Lucknow,Uttar Pradesh,Lucknow Charging Point 023,26.754592,80.916222,CCS2,50,6,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0024,Lucknow,Uttar Pradesh,Lucknow Charging Point 024,26.819239,80.873155,CCS2,30,4,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0025,Lucknow,Uttar Pradesh,Lucknow EV Hub 025,26.797039,81.003626,CCS2,120,2,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0026,Lucknow,Uttar Pradesh,Lucknow EV Hub 026,26.821676,80.870649,CHAdeMO,50,6,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0027,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 027,26.86242,81.026707,Type 2,22,4,4,CityCharge,Operational,SYNTHETIC
+SIM-0028,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 028,26.856778,80.870719,CCS2,30,6,6,ChargeGrid,Operational,SYNTHETIC
+SIM-0029,Lucknow,Uttar Pradesh,Lucknow Charging Point 029,26.927079,80.877957,CCS2,150,8,4,ChargeGrid,Operational,SYNTHETIC
+SIM-0030,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 030,26.865267,81.032963,CCS2,30,2,0,CityCharge,Operational,SYNTHETIC
+SIM-0031,Lucknow,Uttar Pradesh,Lucknow Charging Point 031,26.779665,80.892067,Bharat DC-001,15,6,5,ChargeGrid,Operational,SYNTHETIC
+SIM-0032,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 032,26.873568,80.916354,CCS2,30,4,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0033,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 033,26.808423,80.9324,Type 2,22,2,2,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0034,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 034,26.985161,81.061896,CHAdeMO,50,4,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0035,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 035,26.913022,80.901256,Bharat DC-001,15,4,3,GreenPlug,Operational,SYNTHETIC
+SIM-0036,Lucknow,Uttar Pradesh,Lucknow Charging Point 036,26.968307,80.913563,CCS2,150,4,0,E-Mobility Hub,Under Maintenance,SYNTHETIC
+SIM-0037,Lucknow,Uttar Pradesh,Lucknow Charging Point 037,26.963809,80.866838,Type 2,22,2,2,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0038,Lucknow,Uttar Pradesh,Lucknow EV Hub 038,26.865486,81.052764,CCS2,150,8,5,VoltWay,Operational,SYNTHETIC
+SIM-0039,Lucknow,Uttar Pradesh,Lucknow Charging Point 039,26.83934,80.861446,CCS2,120,2,2,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0040,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 040,26.902399,80.955781,CCS2,150,8,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0041,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 041,26.841349,81.075232,Type 2,11,2,0,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0042,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 042,26.785517,81.019627,CCS2,60,2,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0043,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 043,26.785626,80.917133,Type 2,22,6,5,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0044,Lucknow,Uttar Pradesh,Lucknow EV Hub 044,26.855091,81.036909,CCS2,120,4,1,ChargeGrid,Operational,SYNTHETIC
+SIM-0045,Lucknow,Uttar Pradesh,Lucknow Charging Point 045,26.75008,80.966419,CCS2,50,4,3,VoltWay,Operational,SYNTHETIC
+SIM-0046,Lucknow,Uttar Pradesh,Lucknow Charging Point 046,26.788791,80.925583,CHAdeMO,60,4,3,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0047,Lucknow,Uttar Pradesh,Lucknow EV Hub 047,26.942616,80.973261,Bharat DC-001,15,4,0,CityCharge,Operational,SYNTHETIC
+SIM-0048,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 048,26.781893,80.994427,Bharat DC-001,15,4,3,CityCharge,Operational,SYNTHETIC
+SIM-0049,Lucknow,Uttar Pradesh,Lucknow Charging Point 049,26.886893,80.849293,CCS2,150,6,2,CityCharge,Operational,SYNTHETIC
+SIM-0050,Lucknow,Uttar Pradesh,Lucknow EV Hub 050,26.808259,80.88371,CCS2,120,2,1,ChargeGrid,Operational,SYNTHETIC
+SIM-0051,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 051,26.910242,80.983727,CCS2,120,6,0,E-Mobility Hub,Under Maintenance,SYNTHETIC
+SIM-0052,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 052,26.733222,80.909762,CCS2,120,2,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0053,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 053,26.815298,80.996364,CCS2,120,6,4,VoltWay,Operational,SYNTHETIC
+SIM-0054,Lucknow,Uttar Pradesh,Lucknow EV Hub 054,26.838586,80.936798,CCS2,30,4,3,CityCharge,Operational,SYNTHETIC
+SIM-0055,Lucknow,Uttar Pradesh,Lucknow EV Hub 055,26.805803,80.895513,Bharat DC-001,15,4,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0056,Lucknow,Uttar Pradesh,Lucknow EV Hub 056,26.893,80.980358,Bharat DC-001,15,2,1,CityCharge,Operational,SYNTHETIC
+SIM-0057,Lucknow,Uttar Pradesh,Lucknow EV Hub 057,26.852633,81.026926,Bharat DC-001,15,4,1,VoltWay,Operational,SYNTHETIC
+SIM-0058,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 058,26.87553,80.963231,CCS2,50,8,6,GreenPlug,Operational,SYNTHETIC
+SIM-0059,Lucknow,Uttar Pradesh,Lucknow Charging Point 059,26.885307,80.954722,CCS2,120,2,0,ChargeGrid,Operational,SYNTHETIC
+SIM-0060,Lucknow,Uttar Pradesh,Lucknow EV Hub 060,26.857523,80.996781,Bharat DC-001,15,2,0,ChargeGrid,Operational,SYNTHETIC
+SIM-0061,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 061,26.737082,80.86628,CCS2,50,2,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0062,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 062,26.857578,81.013344,Bharat DC-001,15,2,0,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0063,Lucknow,Uttar Pradesh,Lucknow EV Hub 063,26.921147,80.951879,Bharat DC-001,15,6,0,VoltWay,Operational,SYNTHETIC
+SIM-0064,Lucknow,Uttar Pradesh,Lucknow EV Hub 064,26.890897,81.052275,Type 2,7,4,0,GreenPlug,Operational,SYNTHETIC
+SIM-0065,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 065,26.746,81.003424,CCS2,120,8,5,CityCharge,Operational,SYNTHETIC
+SIM-0066,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 066,26.836292,80.96646,CCS2,50,2,1,CityCharge,Operational,SYNTHETIC
+SIM-0067,Lucknow,Uttar Pradesh,Lucknow EV Hub 067,26.828468,81.014908,CCS2,60,4,4,ChargeGrid,Operational,SYNTHETIC
+SIM-0068,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 068,26.850516,80.956075,CCS2,120,4,2,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0069,Lucknow,Uttar Pradesh,Lucknow Charging Point 069,26.800865,80.848213,Type 2,11,2,0,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0070,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 070,26.90753,80.886893,Type 2,22,4,2,VoltWay,Operational,SYNTHETIC
+SIM-0071,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 071,26.828041,81.01178,CCS2,60,4,4,CityCharge,Operational,SYNTHETIC
+SIM-0072,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 072,26.851734,80.982001,Type 2,22,6,1,GreenPlug,Operational,SYNTHETIC
+SIM-0073,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 073,26.883307,81.013102,CCS2,30,4,2,VoltWay,Operational,SYNTHETIC
+SIM-0074,Lucknow,Uttar Pradesh,Lucknow EV Hub 074,26.745973,80.925512,Bharat DC-001,15,4,3,CityCharge,Operational,SYNTHETIC
+SIM-0075,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 075,26.764062,80.763454,CHAdeMO,50,6,2,CityCharge,Operational,SYNTHETIC
+SIM-0076,Lucknow,Uttar Pradesh,Lucknow Charging Point 076,26.760847,80.927872,Type 2,7,2,2,ChargeGrid,Operational,SYNTHETIC
+SIM-0077,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 077,26.80884,81.001545,CHAdeMO,50,8,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0078,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 078,26.92391,80.91892,CCS2,150,4,2,ChargeGrid,Operational,SYNTHETIC
+SIM-0079,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 079,26.794938,80.918549,CCS2,120,2,0,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0080,Lucknow,Uttar Pradesh,Lucknow Charging Point 080,26.715016,80.897713,CCS2,150,4,2,CityCharge,Operational,SYNTHETIC
+SIM-0081,Lucknow,Uttar Pradesh,Lucknow Charging Point 081,26.837945,80.958738,CCS2,120,4,0,E-Mobility Hub,Under Maintenance,SYNTHETIC
+SIM-0082,Lucknow,Uttar Pradesh,Lucknow Charging Point 082,26.863003,81.07165,Type 2,22,4,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0083,Lucknow,Uttar Pradesh,Lucknow Charging Point 083,26.797816,80.941843,Bharat DC-001,15,2,0,ChargeGrid,Operational,SYNTHETIC
+SIM-0084,Lucknow,Uttar Pradesh,Lucknow Charging Point 084,26.837919,80.905952,CCS2,60,4,2,VoltWay,Operational,SYNTHETIC
+SIM-0085,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 085,26.797217,80.957903,CHAdeMO,60,4,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0086,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 086,26.714154,80.874918,Bharat DC-001,15,2,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0087,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 087,26.80064,80.960714,CHAdeMO,50,2,2,CityCharge,Operational,SYNTHETIC
+SIM-0088,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 088,26.823385,80.844379,CCS2,60,4,0,E-Mobility Hub,Under Maintenance,SYNTHETIC
+SIM-0089,Lucknow,Uttar Pradesh,Lucknow Charging Point 089,26.749077,80.977972,Bharat DC-001,15,4,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0090,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 090,26.888661,80.973823,CCS2,150,2,2,CityCharge,Operational,SYNTHETIC
+SIM-0091,Lucknow,Uttar Pradesh,Lucknow EV Hub 091,26.871248,80.896478,Type 2,22,2,2,CityCharge,Operational,SYNTHETIC
+SIM-0092,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 092,26.822464,80.948179,Type 2,22,2,2,GreenPlug,Operational,SYNTHETIC
+SIM-0093,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 093,26.921645,80.882054,Bharat DC-001,15,8,8,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0094,Lucknow,Uttar Pradesh,Lucknow Charging Point 094,26.829623,80.928556,Bharat DC-001,15,2,2,CityCharge,Operational,SYNTHETIC
+SIM-0095,Lucknow,Uttar Pradesh,Lucknow EV Hub 095,26.885156,81.072736,CCS2,120,2,0,GreenPlug,Operational,SYNTHETIC
+SIM-0096,Lucknow,Uttar Pradesh,Lucknow EV Hub 096,26.776807,80.839514,CCS2,60,4,1,VoltWay,Operational,SYNTHETIC
+SIM-0097,Lucknow,Uttar Pradesh,Lucknow Charging Point 097,26.785994,80.982401,CCS2,50,4,4,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0098,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 098,26.753642,80.945117,Type 2,11,8,3,VoltWay,Operational,SYNTHETIC
+SIM-0099,Lucknow,Uttar Pradesh,Lucknow Rapid Charge 099,26.873214,80.913977,Type 2,22,4,0,VoltWay,Operational,SYNTHETIC
+SIM-0100,Lucknow,Uttar Pradesh,Lucknow Green Mobility Station 100,26.892669,80.967735,Bharat DC-001,15,4,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0101,Delhi,Delhi,Delhi Charging Point 001,28.658823,77.248163,CHAdeMO,50,6,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0102,Delhi,Delhi,Delhi Rapid Charge 002,28.587549,77.258545,CCS2,60,8,7,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0103,Delhi,Delhi,Delhi Rapid Charge 003,28.666263,77.067922,CCS2,50,2,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0104,Delhi,Delhi,Delhi Rapid Charge 004,28.602839,77.278729,CCS2,150,4,3,CityCharge,Operational,SYNTHETIC
+SIM-0105,Delhi,Delhi,Delhi Charging Point 005,28.563818,77.243994,CCS2,50,2,0,GreenPlug,Operational,SYNTHETIC
+SIM-0106,Delhi,Delhi,Delhi Charging Point 006,28.613235,77.1958,Type 2,11,4,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0107,Delhi,Delhi,Delhi Green Mobility Station 007,28.60861,77.279672,CCS2,150,6,2,VoltWay,Operational,SYNTHETIC
+SIM-0108,Delhi,Delhi,Delhi Charging Point 008,28.656102,77.137567,CCS2,150,2,1,ChargeGrid,Operational,SYNTHETIC
+SIM-0109,Delhi,Delhi,Delhi Charging Point 009,28.629198,77.218906,CCS2,150,2,2,VoltWay,Operational,SYNTHETIC
+SIM-0110,Delhi,Delhi,Delhi Charging Point 010,28.679225,77.145056,Bharat DC-001,15,8,4,ChargeGrid,Operational,SYNTHETIC
+SIM-0111,Delhi,Delhi,Delhi Rapid Charge 011,28.593456,77.153044,CCS2,50,4,4,GreenPlug,Operational,SYNTHETIC
+SIM-0112,Delhi,Delhi,Delhi Green Mobility Station 012,28.676383,77.151307,CCS2,60,4,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0113,Delhi,Delhi,Delhi Green Mobility Station 013,28.654601,77.248903,CCS2,120,2,2,CityCharge,Operational,SYNTHETIC
+SIM-0114,Delhi,Delhi,Delhi Rapid Charge 014,28.7064,77.317325,CCS2,30,4,1,ChargeGrid,Operational,SYNTHETIC
+SIM-0115,Delhi,Delhi,Delhi Green Mobility Station 015,28.553759,77.233872,Type 2,22,2,2,GreenPlug,Operational,SYNTHETIC
+SIM-0116,Delhi,Delhi,Delhi EV Hub 016,28.663082,77.209717,Bharat DC-001,15,4,0,VoltWay,Operational,SYNTHETIC
+SIM-0117,Delhi,Delhi,Delhi EV Hub 017,28.572865,77.130665,CCS2,50,8,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0118,Delhi,Delhi,Delhi Rapid Charge 018,28.672157,77.273271,CCS2,120,4,2,CityCharge,Operational,SYNTHETIC
+SIM-0119,Delhi,Delhi,Delhi Rapid Charge 019,28.684703,77.277916,Type 2,22,4,4,ChargeGrid,Operational,SYNTHETIC
+SIM-0120,Delhi,Delhi,Delhi EV Hub 020,28.582116,77.224844,CCS2,150,8,5,CityCharge,Operational,SYNTHETIC
+SIM-0121,Delhi,Delhi,Delhi EV Hub 021,28.628926,77.137613,CCS2,120,8,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0122,Delhi,Delhi,Delhi Green Mobility Station 022,28.497484,77.092352,Bharat DC-001,15,4,0,CityCharge,Operational,SYNTHETIC
+SIM-0123,Delhi,Delhi,Delhi Green Mobility Station 023,28.635676,77.306827,CCS2,120,8,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0124,Delhi,Delhi,Delhi Rapid Charge 024,28.692412,77.324116,CCS2,50,4,4,GreenPlug,Operational,SYNTHETIC
+SIM-0125,Delhi,Delhi,Delhi Green Mobility Station 025,28.621108,77.231898,Type 2,22,4,0,GreenPlug,Operational,SYNTHETIC
+SIM-0126,Delhi,Delhi,Delhi Charging Point 026,28.586964,77.265926,CCS2,50,2,0,CityCharge,Operational,SYNTHETIC
+SIM-0127,Delhi,Delhi,Delhi Charging Point 027,28.507367,77.250762,CCS2,30,6,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0128,Delhi,Delhi,Delhi EV Hub 028,28.659607,77.12491,Type 2,11,2,0,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0129,Delhi,Delhi,Delhi Charging Point 029,28.653736,77.212947,Type 2,7,2,0,CityCharge,Operational,SYNTHETIC
+SIM-0130,Delhi,Delhi,Delhi Charging Point 030,28.612361,77.223132,CHAdeMO,50,8,5,ChargeGrid,Operational,SYNTHETIC
+SIM-0131,Delhi,Delhi,Delhi Green Mobility Station 031,28.682372,77.181976,CCS2,150,4,2,ChargeGrid,Operational,SYNTHETIC
+SIM-0132,Delhi,Delhi,Delhi Rapid Charge 032,28.616022,77.189469,Bharat DC-001,15,6,5,VoltWay,Operational,SYNTHETIC
+SIM-0133,Delhi,Delhi,Delhi EV Hub 033,28.635333,77.215425,Type 2,7,8,3,GreenPlug,Operational,SYNTHETIC
+SIM-0134,Delhi,Delhi,Delhi EV Hub 034,28.543664,77.213381,Bharat DC-001,15,4,0,VoltWay,Operational,SYNTHETIC
+SIM-0135,Delhi,Delhi,Delhi Charging Point 035,28.668207,77.28152,Bharat DC-001,15,4,3,VoltWay,Operational,SYNTHETIC
+SIM-0136,Delhi,Delhi,Delhi Charging Point 036,28.596415,77.15468,Bharat DC-001,15,4,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0137,Delhi,Delhi,Delhi Rapid Charge 037,28.636659,77.194448,CCS2,50,8,0,GreenPlug,Operational,SYNTHETIC
+SIM-0138,Delhi,Delhi,Delhi EV Hub 038,28.630929,77.245936,CCS2,30,2,1,GreenPlug,Operational,SYNTHETIC
+SIM-0139,Delhi,Delhi,Delhi Rapid Charge 039,28.662652,77.239747,CCS2,150,4,3,GreenPlug,Operational,SYNTHETIC
+SIM-0140,Delhi,Delhi,Delhi Green Mobility Station 040,28.634959,76.98042,CCS2,150,8,6,ChargeGrid,Operational,SYNTHETIC
+SIM-0141,Delhi,Delhi,Delhi EV Hub 041,28.68928,77.178675,Type 2,22,6,5,GreenPlug,Operational,SYNTHETIC
+SIM-0142,Delhi,Delhi,Delhi Charging Point 042,28.558771,77.202125,CCS2,60,2,2,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0143,Delhi,Delhi,Delhi Charging Point 043,28.615804,77.191282,Type 2,11,8,5,CityCharge,Operational,SYNTHETIC
+SIM-0144,Delhi,Delhi,Delhi Green Mobility Station 044,28.674657,77.183166,Type 2,11,8,4,ChargeGrid,Operational,SYNTHETIC
+SIM-0145,Delhi,Delhi,Delhi Charging Point 045,28.654357,77.232456,CCS2,150,8,6,GreenPlug,Operational,SYNTHETIC
+SIM-0146,Delhi,Delhi,Delhi Charging Point 046,28.597256,77.178752,CCS2,50,4,3,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0147,Delhi,Delhi,Delhi Charging Point 047,28.6333,77.257043,Type 2,22,4,0,VoltWay,Operational,SYNTHETIC
+SIM-0148,Delhi,Delhi,Delhi Green Mobility Station 048,28.591104,77.248716,CCS2,150,6,0,CityCharge,Operational,SYNTHETIC
+SIM-0149,Delhi,Delhi,Delhi Rapid Charge 049,28.634736,77.131637,CCS2,30,8,6,CityCharge,Operational,SYNTHETIC
+SIM-0150,Delhi,Delhi,Delhi Green Mobility Station 050,28.61677,77.191843,CCS2,50,6,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0151,Delhi,Delhi,Delhi EV Hub 051,28.647787,77.076933,CHAdeMO,60,2,0,VoltWay,Operational,SYNTHETIC
+SIM-0152,Delhi,Delhi,Delhi Rapid Charge 052,28.67922,77.221704,Type 2,7,4,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0153,Delhi,Delhi,Delhi Charging Point 053,28.583223,77.259477,Bharat DC-001,15,4,3,CityCharge,Operational,SYNTHETIC
+SIM-0154,Delhi,Delhi,Delhi EV Hub 054,28.571972,77.155169,Bharat DC-001,15,8,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0155,Delhi,Delhi,Delhi Green Mobility Station 055,28.602676,77.21587,Type 2,11,2,1,VoltWay,Operational,SYNTHETIC
+SIM-0156,Delhi,Delhi,Delhi Green Mobility Station 056,28.620409,77.236863,CCS2,50,6,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0157,Delhi,Delhi,Delhi Green Mobility Station 057,28.610586,77.14184,Bharat DC-001,15,2,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0158,Delhi,Delhi,Delhi Rapid Charge 058,28.601289,77.109208,CCS2,150,4,2,GreenPlug,Operational,SYNTHETIC
+SIM-0159,Delhi,Delhi,Delhi EV Hub 059,28.692842,77.224272,CCS2,60,2,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0160,Delhi,Delhi,Delhi Charging Point 060,28.537004,77.112289,CCS2,30,4,1,CityCharge,Operational,SYNTHETIC
+SIM-0161,Delhi,Delhi,Delhi EV Hub 061,28.62382,77.167897,CHAdeMO,50,2,2,GreenPlug,Operational,SYNTHETIC
+SIM-0162,Delhi,Delhi,Delhi Charging Point 062,28.682208,77.279803,CCS2,50,6,5,CityCharge,Operational,SYNTHETIC
+SIM-0163,Delhi,Delhi,Delhi EV Hub 063,28.53933,77.159217,CCS2,50,6,0,E-Mobility Hub,Under Maintenance,SYNTHETIC
+SIM-0164,Delhi,Delhi,Delhi Charging Point 064,28.600676,77.215392,Bharat DC-001,15,2,0,ChargeGrid,Operational,SYNTHETIC
+SIM-0165,Delhi,Delhi,Delhi Green Mobility Station 065,28.638667,77.209195,CCS2,150,2,1,GreenPlug,Operational,SYNTHETIC
+SIM-0166,Delhi,Delhi,Delhi EV Hub 066,28.608485,77.193719,Bharat DC-001,15,4,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0167,Delhi,Delhi,Delhi Green Mobility Station 067,28.604828,77.289723,CCS2,50,4,0,E-Mobility Hub,Under Maintenance,SYNTHETIC
+SIM-0168,Delhi,Delhi,Delhi Charging Point 068,28.486321,77.083599,CCS2,120,2,2,ChargeGrid,Operational,SYNTHETIC
+SIM-0169,Delhi,Delhi,Delhi EV Hub 069,28.669947,77.273544,CCS2,120,2,2,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0170,Delhi,Delhi,Delhi Charging Point 070,28.619984,77.209084,CHAdeMO,50,2,1,CityCharge,Operational,SYNTHETIC
+SIM-0171,Delhi,Delhi,Delhi Charging Point 071,28.599897,77.114563,Type 2,22,6,2,ChargeGrid,Operational,SYNTHETIC
+SIM-0172,Delhi,Delhi,Delhi EV Hub 072,28.593903,77.137,Type 2,11,4,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0173,Delhi,Delhi,Delhi Green Mobility Station 073,28.571991,77.218312,CCS2,30,2,1,CityCharge,Operational,SYNTHETIC
+SIM-0174,Delhi,Delhi,Delhi Rapid Charge 074,28.648707,77.208333,CCS2,60,4,3,GreenPlug,Operational,SYNTHETIC
+SIM-0175,Delhi,Delhi,Delhi Charging Point 075,28.698148,77.272122,CHAdeMO,50,2,1,ChargeGrid,Operational,SYNTHETIC
+SIM-0176,Delhi,Delhi,Delhi EV Hub 076,28.562941,77.302033,CCS2,60,4,2,ChargeGrid,Operational,SYNTHETIC
+SIM-0177,Delhi,Delhi,Delhi Rapid Charge 077,28.578119,77.166759,CCS2,50,4,1,CityCharge,Operational,SYNTHETIC
+SIM-0178,Delhi,Delhi,Delhi Charging Point 078,28.587001,77.197349,CHAdeMO,60,2,0,CityCharge,Operational,SYNTHETIC
+SIM-0179,Delhi,Delhi,Delhi Charging Point 079,28.548155,77.292011,Type 2,22,4,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0180,Delhi,Delhi,Delhi Rapid Charge 080,28.642717,77.254655,CHAdeMO,60,6,6,GreenPlug,Operational,SYNTHETIC
+SIM-0181,Delhi,Delhi,Delhi EV Hub 081,28.548773,77.21442,CCS2,120,2,1,ChargeGrid,Operational,SYNTHETIC
+SIM-0182,Delhi,Delhi,Delhi Rapid Charge 082,28.699253,77.289005,Type 2,11,4,2,CityCharge,Operational,SYNTHETIC
+SIM-0183,Delhi,Delhi,Delhi Charging Point 083,28.591232,77.095744,CCS2,120,4,4,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0184,Delhi,Delhi,Delhi Charging Point 084,28.630508,77.163553,CCS2,150,4,2,ChargeGrid,Operational,SYNTHETIC
+SIM-0185,Delhi,Delhi,Delhi Green Mobility Station 085,28.668863,77.215103,CCS2,120,6,3,GreenPlug,Operational,SYNTHETIC
+SIM-0186,Delhi,Delhi,Delhi EV Hub 086,28.650314,77.249739,Type 2,7,8,7,GreenPlug,Operational,SYNTHETIC
+SIM-0187,Delhi,Delhi,Delhi Charging Point 087,28.579602,77.210463,CCS2,150,4,0,CityCharge,Operational,SYNTHETIC
+SIM-0188,Delhi,Delhi,Delhi Rapid Charge 088,28.494516,77.082813,CCS2,60,6,6,GreenPlug,Operational,SYNTHETIC
+SIM-0189,Delhi,Delhi,Delhi EV Hub 089,28.724093,77.260638,CCS2,120,6,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0190,Delhi,Delhi,Delhi Green Mobility Station 090,28.660402,77.110284,Bharat DC-001,15,4,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0191,Delhi,Delhi,Delhi Rapid Charge 091,28.473861,77.247485,Type 2,22,8,6,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0192,Delhi,Delhi,Delhi Green Mobility Station 092,28.46111,77.187227,CCS2,150,8,0,VoltWay,Operational,SYNTHETIC
+SIM-0193,Delhi,Delhi,Delhi Green Mobility Station 093,28.714892,77.196285,Type 2,11,6,4,CityCharge,Operational,SYNTHETIC
+SIM-0194,Delhi,Delhi,Delhi Charging Point 094,28.612676,77.111082,CCS2,60,4,4,ChargeGrid,Operational,SYNTHETIC
+SIM-0195,Delhi,Delhi,Delhi Charging Point 095,28.654712,77.09134,CCS2,60,4,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0196,Delhi,Delhi,Delhi Charging Point 096,28.63967,77.250218,Bharat DC-001,15,4,0,ChargeGrid,Operational,SYNTHETIC
+SIM-0197,Delhi,Delhi,Delhi Green Mobility Station 097,28.584931,77.144318,CHAdeMO,50,6,3,GreenPlug,Operational,SYNTHETIC
+SIM-0198,Delhi,Delhi,Delhi Rapid Charge 098,28.599992,77.244227,Bharat DC-001,15,2,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0199,Delhi,Delhi,Delhi EV Hub 099,28.593208,77.177229,Type 2,11,4,4,GreenPlug,Operational,SYNTHETIC
+SIM-0200,Delhi,Delhi,Delhi EV Hub 100,28.66131,77.185212,CCS2,30,2,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0201,Mumbai,Maharashtra,Mumbai Charging Point 001,18.992688,72.925951,Bharat DC-001,15,2,0,E-Mobility Hub,Under Maintenance,SYNTHETIC
+SIM-0202,Mumbai,Maharashtra,Mumbai Rapid Charge 002,19.085749,72.894648,CHAdeMO,60,4,2,VoltWay,Operational,SYNTHETIC
+SIM-0203,Mumbai,Maharashtra,Mumbai EV Hub 003,18.979635,72.883181,CCS2,120,6,5,GreenPlug,Operational,SYNTHETIC
+SIM-0204,Mumbai,Maharashtra,Mumbai Charging Point 004,19.157257,72.846125,CCS2,150,8,7,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0205,Mumbai,Maharashtra,Mumbai EV Hub 005,19.107655,72.795654,CCS2,60,2,2,ChargeGrid,Operational,SYNTHETIC
+SIM-0206,Mumbai,Maharashtra,Mumbai Rapid Charge 006,19.114207,72.892593,Type 2,22,2,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0207,Mumbai,Maharashtra,Mumbai Green Mobility Station 007,18.989764,72.951081,CCS2,30,2,1,GreenPlug,Operational,SYNTHETIC
+SIM-0208,Mumbai,Maharashtra,Mumbai EV Hub 008,19.077541,72.865058,Type 2,7,2,0,CityCharge,Operational,SYNTHETIC
+SIM-0209,Mumbai,Maharashtra,Mumbai Rapid Charge 009,19.121343,72.931307,Type 2,7,8,6,ChargeGrid,Operational,SYNTHETIC
+SIM-0210,Mumbai,Maharashtra,Mumbai Green Mobility Station 010,18.98605,72.891489,Type 2,11,8,0,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0211,Mumbai,Maharashtra,Mumbai Green Mobility Station 011,19.039446,72.898685,Type 2,7,4,3,GreenPlug,Operational,SYNTHETIC
+SIM-0212,Mumbai,Maharashtra,Mumbai Green Mobility Station 012,19.159404,72.859859,CCS2,120,6,5,CityCharge,Operational,SYNTHETIC
+SIM-0213,Mumbai,Maharashtra,Mumbai Rapid Charge 013,19.156695,72.871053,Bharat DC-001,15,4,2,CityCharge,Operational,SYNTHETIC
+SIM-0214,Mumbai,Maharashtra,Mumbai Charging Point 014,19.036146,72.828015,CCS2,120,4,0,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0215,Mumbai,Maharashtra,Mumbai EV Hub 015,18.997507,72.774832,CCS2,50,4,0,GreenPlug,Operational,SYNTHETIC
+SIM-0216,Mumbai,Maharashtra,Mumbai Charging Point 016,19.067046,72.999678,CHAdeMO,50,2,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0217,Mumbai,Maharashtra,Mumbai Rapid Charge 017,19.082302,72.896901,Type 2,7,4,3,ChargeGrid,Operational,SYNTHETIC
+SIM-0218,Mumbai,Maharashtra,Mumbai Charging Point 018,19.085831,72.841834,CCS2,120,6,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0219,Mumbai,Maharashtra,Mumbai Charging Point 019,19.093754,72.81077,Bharat DC-001,15,6,1,VoltWay,Operational,SYNTHETIC
+SIM-0220,Mumbai,Maharashtra,Mumbai EV Hub 020,19.094166,72.865378,CCS2,120,6,1,VoltWay,Operational,SYNTHETIC
+SIM-0221,Mumbai,Maharashtra,Mumbai EV Hub 021,19.079735,72.909599,CCS2,150,2,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0222,Mumbai,Maharashtra,Mumbai Rapid Charge 022,19.148161,72.859358,Bharat DC-001,15,4,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0223,Mumbai,Maharashtra,Mumbai Charging Point 023,19.052655,72.940486,CCS2,120,4,2,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0224,Mumbai,Maharashtra,Mumbai EV Hub 024,19.093017,72.934818,Bharat DC-001,15,2,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0225,Mumbai,Maharashtra,Mumbai Rapid Charge 025,19.024835,72.965946,Bharat DC-001,15,4,3,CityCharge,Operational,SYNTHETIC
+SIM-0226,Mumbai,Maharashtra,Mumbai Green Mobility Station 026,19.062984,72.774069,Type 2,11,2,0,ChargeGrid,Operational,SYNTHETIC
+SIM-0227,Mumbai,Maharashtra,Mumbai EV Hub 027,19.044005,72.856431,Bharat DC-001,15,2,2,GreenPlug,Operational,SYNTHETIC
+SIM-0228,Mumbai,Maharashtra,Mumbai Rapid Charge 028,19.06798,72.854885,CCS2,50,6,2,VoltWay,Operational,SYNTHETIC
+SIM-0229,Mumbai,Maharashtra,Mumbai Green Mobility Station 029,19.012009,72.887131,CCS2,150,2,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0230,Mumbai,Maharashtra,Mumbai Rapid Charge 030,19.075288,72.793107,CCS2,120,4,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0231,Mumbai,Maharashtra,Mumbai EV Hub 031,19.141429,72.868795,Bharat DC-001,15,4,1,VoltWay,Operational,SYNTHETIC
+SIM-0232,Mumbai,Maharashtra,Mumbai Green Mobility Station 032,19.127852,72.820377,CCS2,60,8,4,CityCharge,Operational,SYNTHETIC
+SIM-0233,Mumbai,Maharashtra,Mumbai EV Hub 033,19.096788,72.904036,CCS2,50,2,2,CityCharge,Operational,SYNTHETIC
+SIM-0234,Mumbai,Maharashtra,Mumbai EV Hub 034,19.138298,72.951291,CCS2,30,4,1,CityCharge,Operational,SYNTHETIC
+SIM-0235,Mumbai,Maharashtra,Mumbai EV Hub 035,19.064027,72.855364,CCS2,120,2,0,GreenPlug,Operational,SYNTHETIC
+SIM-0236,Mumbai,Maharashtra,Mumbai Rapid Charge 036,19.105267,73.047297,Bharat DC-001,15,2,0,CityCharge,Operational,SYNTHETIC
+SIM-0237,Mumbai,Maharashtra,Mumbai Green Mobility Station 037,19.117902,72.94611,Bharat DC-001,15,8,0,ChargeGrid,Operational,SYNTHETIC
+SIM-0238,Mumbai,Maharashtra,Mumbai EV Hub 038,19.135281,72.806708,Type 2,22,2,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0239,Mumbai,Maharashtra,Mumbai EV Hub 039,18.978913,72.934372,Bharat DC-001,15,6,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0240,Mumbai,Maharashtra,Mumbai Rapid Charge 040,19.050653,72.915434,CCS2,50,4,2,VoltWay,Operational,SYNTHETIC
+SIM-0241,Mumbai,Maharashtra,Mumbai Rapid Charge 041,19.037822,72.848218,CCS2,120,6,1,ChargeGrid,Operational,SYNTHETIC
+SIM-0242,Mumbai,Maharashtra,Mumbai Charging Point 042,19.097366,72.775286,Type 2,22,8,3,CityCharge,Operational,SYNTHETIC
+SIM-0243,Mumbai,Maharashtra,Mumbai Green Mobility Station 043,19.174906,72.947034,CCS2,60,8,0,CityCharge,Operational,SYNTHETIC
+SIM-0244,Mumbai,Maharashtra,Mumbai EV Hub 044,19.071087,72.7847,Bharat DC-001,15,6,1,CityCharge,Operational,SYNTHETIC
+SIM-0245,Mumbai,Maharashtra,Mumbai Green Mobility Station 045,19.096049,72.835449,CCS2,60,6,2,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0246,Mumbai,Maharashtra,Mumbai Rapid Charge 046,19.040827,72.914958,Bharat DC-001,15,4,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0247,Mumbai,Maharashtra,Mumbai Charging Point 047,18.989511,72.797276,Type 2,22,2,1,CityCharge,Operational,SYNTHETIC
+SIM-0248,Mumbai,Maharashtra,Mumbai Charging Point 048,19.206603,72.776572,CCS2,50,6,0,CityCharge,Operational,SYNTHETIC
+SIM-0249,Mumbai,Maharashtra,Mumbai Rapid Charge 049,19.089025,72.988441,CCS2,30,2,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0250,Mumbai,Maharashtra,Mumbai Rapid Charge 050,18.950834,72.915003,CCS2,50,8,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0251,Mumbai,Maharashtra,Mumbai EV Hub 051,19.109346,72.799812,CCS2,30,2,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0252,Mumbai,Maharashtra,Mumbai Charging Point 052,19.081368,72.822965,Type 2,22,4,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0253,Mumbai,Maharashtra,Mumbai Charging Point 053,19.064209,72.793783,CCS2,120,4,0,CityCharge,Operational,SYNTHETIC
+SIM-0254,Mumbai,Maharashtra,Mumbai Green Mobility Station 054,19.082124,72.855083,CCS2,120,2,2,GreenPlug,Operational,SYNTHETIC
+SIM-0255,Mumbai,Maharashtra,Mumbai EV Hub 055,19.044265,72.895963,CCS2,120,6,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0256,Mumbai,Maharashtra,Mumbai Rapid Charge 056,19.04489,72.941668,Type 2,22,4,0,ChargeGrid,Operational,SYNTHETIC
+SIM-0257,Mumbai,Maharashtra,Mumbai Charging Point 057,19.011309,72.832447,Type 2,7,4,0,ChargeGrid,Operational,SYNTHETIC
+SIM-0258,Mumbai,Maharashtra,Mumbai EV Hub 058,19.122317,72.824291,Type 2,7,6,3,CityCharge,Operational,SYNTHETIC
+SIM-0259,Mumbai,Maharashtra,Mumbai Green Mobility Station 059,19.004756,72.976987,Type 2,22,4,4,CityCharge,Operational,SYNTHETIC
+SIM-0260,Mumbai,Maharashtra,Mumbai Green Mobility Station 060,19.15643,72.924792,Type 2,11,8,3,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0261,Mumbai,Maharashtra,Mumbai Green Mobility Station 061,19.137004,72.785052,CCS2,60,2,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0262,Mumbai,Maharashtra,Mumbai Rapid Charge 062,19.059458,72.769912,CCS2,50,2,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0263,Mumbai,Maharashtra,Mumbai EV Hub 063,19.073816,72.903449,Type 2,11,6,1,GreenPlug,Operational,SYNTHETIC
+SIM-0264,Mumbai,Maharashtra,Mumbai Charging Point 064,19.075969,72.88001,Bharat DC-001,15,2,2,VoltWay,Operational,SYNTHETIC
+SIM-0265,Mumbai,Maharashtra,Mumbai Green Mobility Station 065,19.08536,72.850806,CHAdeMO,50,4,1,GreenPlug,Operational,SYNTHETIC
+SIM-0266,Mumbai,Maharashtra,Mumbai EV Hub 066,19.118308,72.948799,Type 2,22,2,2,GreenPlug,Operational,SYNTHETIC
+SIM-0267,Mumbai,Maharashtra,Mumbai EV Hub 067,19.027814,72.864521,Bharat DC-001,15,2,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0268,Mumbai,Maharashtra,Mumbai Green Mobility Station 068,19.080838,72.890479,CCS2,120,4,2,ChargeGrid,Operational,SYNTHETIC
+SIM-0269,Mumbai,Maharashtra,Mumbai EV Hub 069,19.124342,72.790559,CCS2,30,6,6,ChargeGrid,Operational,SYNTHETIC
+SIM-0270,Mumbai,Maharashtra,Mumbai Rapid Charge 070,19.112376,72.840365,Type 2,11,2,0,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0271,Mumbai,Maharashtra,Mumbai Charging Point 071,19.066724,72.938441,CCS2,60,4,3,ChargeGrid,Operational,SYNTHETIC
+SIM-0272,Mumbai,Maharashtra,Mumbai Green Mobility Station 072,19.132325,72.89457,CCS2,60,8,3,ChargeGrid,Operational,SYNTHETIC
+SIM-0273,Mumbai,Maharashtra,Mumbai Green Mobility Station 073,19.123956,72.845005,Type 2,22,8,7,VoltWay,Operational,SYNTHETIC
+SIM-0274,Mumbai,Maharashtra,Mumbai Charging Point 074,19.17549,72.960648,CCS2,120,4,2,ChargeGrid,Operational,SYNTHETIC
+SIM-0275,Mumbai,Maharashtra,Mumbai EV Hub 075,18.965566,72.893223,Type 2,22,6,1,ChargeGrid,Operational,SYNTHETIC
+SIM-0276,Mumbai,Maharashtra,Mumbai EV Hub 076,19.032925,72.811536,CCS2,30,2,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0277,Mumbai,Maharashtra,Mumbai Charging Point 077,19.051252,72.815097,CHAdeMO,60,8,4,GreenPlug,Operational,SYNTHETIC
+SIM-0278,Mumbai,Maharashtra,Mumbai EV Hub 078,19.01215,72.879584,Type 2,22,8,0,E-Mobility Hub,Under Maintenance,SYNTHETIC
+SIM-0279,Mumbai,Maharashtra,Mumbai Green Mobility Station 079,19.106352,72.707934,Type 2,22,4,3,ChargeGrid,Operational,SYNTHETIC
+SIM-0280,Mumbai,Maharashtra,Mumbai Green Mobility Station 080,18.99536,72.814049,Type 2,22,4,3,VoltWay,Operational,SYNTHETIC
+SIM-0281,Mumbai,Maharashtra,Mumbai Green Mobility Station 081,19.043929,72.818502,CCS2,150,2,2,GreenPlug,Operational,SYNTHETIC
+SIM-0282,Mumbai,Maharashtra,Mumbai Green Mobility Station 082,19.147143,72.79913,Bharat DC-001,15,8,7,CityCharge,Operational,SYNTHETIC
+SIM-0283,Mumbai,Maharashtra,Mumbai Green Mobility Station 083,19.005896,72.883219,Type 2,22,2,1,CityCharge,Operational,SYNTHETIC
+SIM-0284,Mumbai,Maharashtra,Mumbai EV Hub 084,19.025999,72.826999,CCS2,120,2,1,GreenPlug,Operational,SYNTHETIC
+SIM-0285,Mumbai,Maharashtra,Mumbai Charging Point 085,19.087842,72.818077,CCS2,150,4,0,GreenPlug,Operational,SYNTHETIC
+SIM-0286,Mumbai,Maharashtra,Mumbai Charging Point 086,19.040773,72.861935,CCS2,30,2,1,ChargeGrid,Operational,SYNTHETIC
+SIM-0287,Mumbai,Maharashtra,Mumbai Charging Point 087,19.052325,72.924055,Type 2,11,2,2,VoltWay,Operational,SYNTHETIC
+SIM-0288,Mumbai,Maharashtra,Mumbai Rapid Charge 088,19.118342,72.767525,CCS2,60,4,1,GreenPlug,Operational,SYNTHETIC
+SIM-0289,Mumbai,Maharashtra,Mumbai Rapid Charge 089,19.077708,72.863031,Type 2,7,4,3,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0290,Mumbai,Maharashtra,Mumbai Rapid Charge 090,19.001187,72.900439,CHAdeMO,60,4,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0291,Mumbai,Maharashtra,Mumbai Rapid Charge 091,19.092711,72.872373,CHAdeMO,60,2,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0292,Mumbai,Maharashtra,Mumbai Green Mobility Station 092,19.089852,72.795947,CHAdeMO,50,4,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0293,Mumbai,Maharashtra,Mumbai Rapid Charge 093,19.00645,72.981125,CCS2,30,2,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0294,Mumbai,Maharashtra,Mumbai Rapid Charge 094,19.074455,72.839273,CCS2,30,4,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0295,Mumbai,Maharashtra,Mumbai Charging Point 095,19.072161,72.800097,CCS2,30,8,7,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0296,Mumbai,Maharashtra,Mumbai Green Mobility Station 096,19.147954,72.848982,CCS2,30,4,2,CityCharge,Operational,SYNTHETIC
+SIM-0297,Mumbai,Maharashtra,Mumbai Charging Point 097,19.130811,72.819871,CCS2,60,4,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0298,Mumbai,Maharashtra,Mumbai Green Mobility Station 098,19.000147,72.819834,Type 2,7,8,3,ChargeGrid,Operational,SYNTHETIC
+SIM-0299,Mumbai,Maharashtra,Mumbai Rapid Charge 099,19.008641,72.945146,CCS2,120,2,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0300,Mumbai,Maharashtra,Mumbai EV Hub 100,18.976438,72.842624,Type 2,22,4,2,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0301,Pune,Maharashtra,Pune Charging Point 001,18.503404,73.846673,Type 2,7,8,5,ChargeGrid,Operational,SYNTHETIC
+SIM-0302,Pune,Maharashtra,Pune Rapid Charge 002,18.44302,73.741983,CCS2,150,2,0,VoltWay,Operational,SYNTHETIC
+SIM-0303,Pune,Maharashtra,Pune Charging Point 003,18.523356,73.731643,CCS2,50,2,0,CityCharge,Operational,SYNTHETIC
+SIM-0304,Pune,Maharashtra,Pune EV Hub 004,18.576632,73.901773,Type 2,22,2,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0305,Pune,Maharashtra,Pune EV Hub 005,18.555017,73.864349,CCS2,30,6,5,GreenPlug,Operational,SYNTHETIC
+SIM-0306,Pune,Maharashtra,Pune Green Mobility Station 006,18.420952,73.946229,Type 2,7,4,0,CityCharge,Operational,SYNTHETIC
+SIM-0307,Pune,Maharashtra,Pune Rapid Charge 007,18.492237,73.937957,Bharat DC-001,15,2,2,ChargeGrid,Operational,SYNTHETIC
+SIM-0308,Pune,Maharashtra,Pune Rapid Charge 008,18.570518,73.868218,CCS2,150,8,1,GreenPlug,Operational,SYNTHETIC
+SIM-0309,Pune,Maharashtra,Pune EV Hub 009,18.56289,73.888901,Type 2,11,2,1,ChargeGrid,Operational,SYNTHETIC
+SIM-0310,Pune,Maharashtra,Pune EV Hub 010,18.641759,73.826319,CCS2,60,2,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0311,Pune,Maharashtra,Pune Charging Point 011,18.538225,73.810366,CCS2,150,2,0,E-Mobility Hub,Under Maintenance,SYNTHETIC
+SIM-0312,Pune,Maharashtra,Pune Charging Point 012,18.515177,73.837433,CCS2,50,6,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0313,Pune,Maharashtra,Pune Charging Point 013,18.571911,73.835565,Type 2,11,4,1,GreenPlug,Operational,SYNTHETIC
+SIM-0314,Pune,Maharashtra,Pune Charging Point 014,18.532736,73.891558,CCS2,30,6,3,ChargeGrid,Operational,SYNTHETIC
+SIM-0315,Pune,Maharashtra,Pune Green Mobility Station 015,18.468483,73.932172,Type 2,22,2,2,GreenPlug,Operational,SYNTHETIC
+SIM-0316,Pune,Maharashtra,Pune Green Mobility Station 016,18.479789,73.820959,CCS2,120,4,1,GreenPlug,Operational,SYNTHETIC
+SIM-0317,Pune,Maharashtra,Pune Green Mobility Station 017,18.523243,73.884602,CCS2,60,4,0,CityCharge,Operational,SYNTHETIC
+SIM-0318,Pune,Maharashtra,Pune Rapid Charge 018,18.417963,73.798558,Type 2,22,2,2,VoltWay,Operational,SYNTHETIC
+SIM-0319,Pune,Maharashtra,Pune EV Hub 019,18.550594,73.898817,CCS2,60,2,1,ChargeGrid,Operational,SYNTHETIC
+SIM-0320,Pune,Maharashtra,Pune EV Hub 020,18.510483,73.857516,CCS2,50,4,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0321,Pune,Maharashtra,Pune Green Mobility Station 021,18.553664,73.919394,Type 2,22,6,2,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0322,Pune,Maharashtra,Pune Green Mobility Station 022,18.563872,73.91352,CCS2,30,4,0,CityCharge,Operational,SYNTHETIC
+SIM-0323,Pune,Maharashtra,Pune Green Mobility Station 023,18.515006,73.81904,Bharat DC-001,15,4,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0324,Pune,Maharashtra,Pune Charging Point 024,18.459919,73.87029,Type 2,7,8,6,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0325,Pune,Maharashtra,Pune Green Mobility Station 025,18.461134,73.782054,Type 2,7,2,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0326,Pune,Maharashtra,Pune Green Mobility Station 026,18.470762,73.83901,CHAdeMO,60,4,1,VoltWay,Operational,SYNTHETIC
+SIM-0327,Pune,Maharashtra,Pune Charging Point 027,18.486271,73.764928,CCS2,150,6,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0328,Pune,Maharashtra,Pune Charging Point 028,18.557533,73.718577,CCS2,30,4,2,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0329,Pune,Maharashtra,Pune EV Hub 029,18.550701,73.718808,CCS2,50,2,2,VoltWay,Operational,SYNTHETIC
+SIM-0330,Pune,Maharashtra,Pune EV Hub 030,18.553865,73.844271,Type 2,22,2,2,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0331,Pune,Maharashtra,Pune Charging Point 031,18.570362,73.864059,CHAdeMO,50,2,0,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0332,Pune,Maharashtra,Pune EV Hub 032,18.588339,73.857475,Bharat DC-001,15,4,0,GreenPlug,Operational,SYNTHETIC
+SIM-0333,Pune,Maharashtra,Pune Rapid Charge 033,18.645659,73.913022,CCS2,50,2,1,VoltWay,Operational,SYNTHETIC
+SIM-0334,Pune,Maharashtra,Pune Rapid Charge 034,18.584472,73.910513,Bharat DC-001,15,2,0,ChargeGrid,Operational,SYNTHETIC
+SIM-0335,Pune,Maharashtra,Pune EV Hub 035,18.471449,73.696454,Type 2,11,6,6,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0336,Pune,Maharashtra,Pune EV Hub 036,18.591407,73.871863,Bharat DC-001,15,4,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0337,Pune,Maharashtra,Pune Charging Point 037,18.540548,73.839978,CCS2,30,4,1,VoltWay,Operational,SYNTHETIC
+SIM-0338,Pune,Maharashtra,Pune Green Mobility Station 038,18.583114,73.85738,CCS2,30,8,1,ChargeGrid,Operational,SYNTHETIC
+SIM-0339,Pune,Maharashtra,Pune Charging Point 039,18.575382,73.804374,CCS2,60,2,0,CityCharge,Operational,SYNTHETIC
+SIM-0340,Pune,Maharashtra,Pune Rapid Charge 040,18.672609,73.905106,Type 2,7,4,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0341,Pune,Maharashtra,Pune Charging Point 041,18.510028,73.903784,CHAdeMO,50,2,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0342,Pune,Maharashtra,Pune Green Mobility Station 042,18.556235,73.892755,Type 2,22,6,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0343,Pune,Maharashtra,Pune EV Hub 043,18.538219,73.926842,CHAdeMO,60,8,4,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0344,Pune,Maharashtra,Pune Rapid Charge 044,18.659655,73.942552,CCS2,150,2,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0345,Pune,Maharashtra,Pune EV Hub 045,18.507286,73.850042,CCS2,30,6,0,CityCharge,Operational,SYNTHETIC
+SIM-0346,Pune,Maharashtra,Pune Rapid Charge 046,18.522745,73.851671,Bharat DC-001,15,4,2,CityCharge,Operational,SYNTHETIC
+SIM-0347,Pune,Maharashtra,Pune Charging Point 047,18.486625,73.763383,Type 2,11,6,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0348,Pune,Maharashtra,Pune Rapid Charge 048,18.429106,73.874612,Type 2,22,2,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0349,Pune,Maharashtra,Pune Rapid Charge 049,18.552779,73.830826,Type 2,22,6,5,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0350,Pune,Maharashtra,Pune Charging Point 050,18.472773,73.761139,CCS2,150,8,4,ChargeGrid,Operational,SYNTHETIC
+SIM-0351,Pune,Maharashtra,Pune Charging Point 051,18.607062,73.757932,Type 2,22,4,4,VoltWay,Operational,SYNTHETIC
+SIM-0352,Pune,Maharashtra,Pune Rapid Charge 052,18.554293,73.721719,Type 2,22,4,1,ChargeGrid,Operational,SYNTHETIC
+SIM-0353,Pune,Maharashtra,Pune EV Hub 053,18.582758,73.978908,CHAdeMO,60,2,2,VoltWay,Operational,SYNTHETIC
+SIM-0354,Pune,Maharashtra,Pune Rapid Charge 054,18.464393,73.862644,Type 2,22,2,2,GreenPlug,Operational,SYNTHETIC
+SIM-0355,Pune,Maharashtra,Pune Green Mobility Station 055,18.535603,73.914445,CHAdeMO,60,4,4,VoltWay,Operational,SYNTHETIC
+SIM-0356,Pune,Maharashtra,Pune Green Mobility Station 056,18.565464,74.007721,CCS2,120,8,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0357,Pune,Maharashtra,Pune Green Mobility Station 057,18.498226,73.888088,CHAdeMO,60,4,4,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0358,Pune,Maharashtra,Pune Rapid Charge 058,18.419069,73.74553,CCS2,50,2,0,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0359,Pune,Maharashtra,Pune Charging Point 059,18.477825,73.831149,Type 2,11,4,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0360,Pune,Maharashtra,Pune Green Mobility Station 060,18.538426,73.890584,Bharat DC-001,15,4,3,CityCharge,Operational,SYNTHETIC
+SIM-0361,Pune,Maharashtra,Pune Rapid Charge 061,18.504996,73.962066,Type 2,22,4,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0362,Pune,Maharashtra,Pune EV Hub 062,18.526291,73.905885,CCS2,150,4,4,GreenPlug,Operational,SYNTHETIC
+SIM-0363,Pune,Maharashtra,Pune Rapid Charge 063,18.481803,73.901128,CCS2,60,4,0,GreenPlug,Operational,SYNTHETIC
+SIM-0364,Pune,Maharashtra,Pune Rapid Charge 064,18.490256,73.928154,CCS2,50,4,4,CityCharge,Operational,SYNTHETIC
+SIM-0365,Pune,Maharashtra,Pune Green Mobility Station 065,18.570968,73.944965,Type 2,22,4,2,ChargeGrid,Operational,SYNTHETIC
+SIM-0366,Pune,Maharashtra,Pune Charging Point 066,18.532291,73.903386,CCS2,120,6,0,E-Mobility Hub,Under Maintenance,SYNTHETIC
+SIM-0367,Pune,Maharashtra,Pune Charging Point 067,18.426269,73.844215,Bharat DC-001,15,8,3,GreenPlug,Operational,SYNTHETIC
+SIM-0368,Pune,Maharashtra,Pune EV Hub 068,18.624518,73.896281,CCS2,120,4,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0369,Pune,Maharashtra,Pune Green Mobility Station 069,18.550221,73.870893,Bharat DC-001,15,2,2,GreenPlug,Operational,SYNTHETIC
+SIM-0370,Pune,Maharashtra,Pune Green Mobility Station 070,18.431194,73.89234,CHAdeMO,50,4,4,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0371,Pune,Maharashtra,Pune EV Hub 071,18.517894,73.828445,CCS2,60,2,2,VoltWay,Operational,SYNTHETIC
+SIM-0372,Pune,Maharashtra,Pune Charging Point 072,18.514447,73.831548,Type 2,22,2,0,ChargeGrid,Operational,SYNTHETIC
+SIM-0373,Pune,Maharashtra,Pune Green Mobility Station 073,18.599325,73.943133,Bharat DC-001,15,8,3,GreenPlug,Operational,SYNTHETIC
+SIM-0374,Pune,Maharashtra,Pune Rapid Charge 074,18.468615,73.868379,Type 2,11,2,2,ChargeGrid,Operational,SYNTHETIC
+SIM-0375,Pune,Maharashtra,Pune Green Mobility Station 075,18.601438,73.86731,Type 2,22,4,1,VoltWay,Operational,SYNTHETIC
+SIM-0376,Pune,Maharashtra,Pune Charging Point 076,18.595879,73.799212,Type 2,22,4,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0377,Pune,Maharashtra,Pune EV Hub 077,18.52495,73.938495,Bharat DC-001,15,8,0,E-Mobility Hub,Under Maintenance,SYNTHETIC
+SIM-0378,Pune,Maharashtra,Pune Green Mobility Station 078,18.559615,73.763419,CCS2,150,4,2,ChargeGrid,Operational,SYNTHETIC
+SIM-0379,Pune,Maharashtra,Pune Green Mobility Station 079,18.490492,73.938562,CCS2,150,2,0,GreenPlug,Operational,SYNTHETIC
+SIM-0380,Pune,Maharashtra,Pune Charging Point 080,18.509593,73.904679,Type 2,11,4,2,VoltWay,Operational,SYNTHETIC
+SIM-0381,Pune,Maharashtra,Pune EV Hub 081,18.418275,73.817316,Type 2,11,6,4,VoltWay,Operational,SYNTHETIC
+SIM-0382,Pune,Maharashtra,Pune Charging Point 082,18.48283,73.945873,CCS2,30,2,2,VoltWay,Operational,SYNTHETIC
+SIM-0383,Pune,Maharashtra,Pune EV Hub 083,18.475476,73.854239,Type 2,22,4,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0384,Pune,Maharashtra,Pune EV Hub 084,18.586808,73.837605,CCS2,150,6,4,VoltWay,Operational,SYNTHETIC
+SIM-0385,Pune,Maharashtra,Pune Green Mobility Station 085,18.467083,73.8012,CCS2,60,2,1,CityCharge,Operational,SYNTHETIC
+SIM-0386,Pune,Maharashtra,Pune Charging Point 086,18.651997,73.795367,CCS2,150,8,8,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0387,Pune,Maharashtra,Pune Green Mobility Station 087,18.488174,73.872255,Type 2,22,6,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0388,Pune,Maharashtra,Pune Rapid Charge 088,18.501294,73.773823,Bharat DC-001,15,4,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0389,Pune,Maharashtra,Pune EV Hub 089,18.484334,73.896784,CCS2,60,4,3,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0390,Pune,Maharashtra,Pune Rapid Charge 090,18.606518,73.886204,CCS2,50,2,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0391,Pune,Maharashtra,Pune EV Hub 091,18.482444,73.770533,CCS2,120,2,2,CityCharge,Operational,SYNTHETIC
+SIM-0392,Pune,Maharashtra,Pune Green Mobility Station 092,18.450028,73.796838,Bharat DC-001,15,8,4,CityCharge,Operational,SYNTHETIC
+SIM-0393,Pune,Maharashtra,Pune Green Mobility Station 093,18.52841,73.879509,Bharat DC-001,15,2,0,GreenPlug,Operational,SYNTHETIC
+SIM-0394,Pune,Maharashtra,Pune EV Hub 094,18.531998,73.846479,Bharat DC-001,15,2,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0395,Pune,Maharashtra,Pune Green Mobility Station 095,18.559259,73.852363,CCS2,120,4,0,ChargeGrid,Operational,SYNTHETIC
+SIM-0396,Pune,Maharashtra,Pune EV Hub 096,18.577565,73.793706,Type 2,11,2,2,CityCharge,Operational,SYNTHETIC
+SIM-0397,Pune,Maharashtra,Pune EV Hub 097,18.500011,73.804218,CCS2,60,2,1,GreenPlug,Operational,SYNTHETIC
+SIM-0398,Pune,Maharashtra,Pune Charging Point 098,18.615408,73.829882,Type 2,11,6,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0399,Pune,Maharashtra,Pune Green Mobility Station 099,18.596964,73.807226,Type 2,7,2,1,CityCharge,Operational,SYNTHETIC
+SIM-0400,Pune,Maharashtra,Pune Charging Point 100,18.577933,73.829446,CCS2,50,6,2,ChargeGrid,Operational,SYNTHETIC
+SIM-0401,Bengaluru,Karnataka,Bengaluru Green Mobility Station 001,12.882551,77.601027,Type 2,11,8,6,CityCharge,Operational,SYNTHETIC
+SIM-0402,Bengaluru,Karnataka,Bengaluru Rapid Charge 002,13.019559,77.555404,CHAdeMO,50,4,1,GreenPlug,Operational,SYNTHETIC
+SIM-0403,Bengaluru,Karnataka,Bengaluru Charging Point 003,12.871426,77.69352,CCS2,60,6,5,CityCharge,Operational,SYNTHETIC
+SIM-0404,Bengaluru,Karnataka,Bengaluru Green Mobility Station 004,12.962593,77.570468,CCS2,120,6,2,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0405,Bengaluru,Karnataka,Bengaluru Green Mobility Station 005,13.054348,77.557289,Type 2,7,2,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0406,Bengaluru,Karnataka,Bengaluru Charging Point 006,12.968496,77.562051,Bharat DC-001,15,6,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0407,Bengaluru,Karnataka,Bengaluru Charging Point 007,13.03212,77.632731,CCS2,120,2,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0408,Bengaluru,Karnataka,Bengaluru Rapid Charge 008,13.024939,77.643944,Type 2,22,2,2,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0409,Bengaluru,Karnataka,Bengaluru Green Mobility Station 009,12.986908,77.516936,CCS2,30,4,1,ChargeGrid,Operational,SYNTHETIC
+SIM-0410,Bengaluru,Karnataka,Bengaluru Charging Point 010,12.942161,77.512059,Type 2,11,4,1,ChargeGrid,Operational,SYNTHETIC
+SIM-0411,Bengaluru,Karnataka,Bengaluru Green Mobility Station 011,13.008779,77.536399,CCS2,30,8,5,CityCharge,Operational,SYNTHETIC
+SIM-0412,Bengaluru,Karnataka,Bengaluru EV Hub 012,13.108766,77.542944,CHAdeMO,60,4,2,VoltWay,Operational,SYNTHETIC
+SIM-0413,Bengaluru,Karnataka,Bengaluru Green Mobility Station 013,13.002088,77.607619,CHAdeMO,60,4,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0414,Bengaluru,Karnataka,Bengaluru EV Hub 014,13.01185,77.557091,Type 2,7,4,0,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0415,Bengaluru,Karnataka,Bengaluru Green Mobility Station 015,12.963068,77.675361,Bharat DC-001,15,6,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0416,Bengaluru,Karnataka,Bengaluru Charging Point 016,12.978539,77.575433,CCS2,30,6,2,VoltWay,Operational,SYNTHETIC
+SIM-0417,Bengaluru,Karnataka,Bengaluru Rapid Charge 017,12.911866,77.523633,CCS2,150,8,8,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0418,Bengaluru,Karnataka,Bengaluru EV Hub 018,12.934337,77.534005,CCS2,120,8,7,GreenPlug,Operational,SYNTHETIC
+SIM-0419,Bengaluru,Karnataka,Bengaluru Green Mobility Station 019,12.925879,77.616973,CCS2,30,6,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0420,Bengaluru,Karnataka,Bengaluru Green Mobility Station 020,12.988291,77.62347,CCS2,60,4,0,ChargeGrid,Operational,SYNTHETIC
+SIM-0421,Bengaluru,Karnataka,Bengaluru Rapid Charge 021,12.966429,77.55717,CHAdeMO,60,4,0,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0422,Bengaluru,Karnataka,Bengaluru Charging Point 022,13.01607,77.562968,Type 2,7,4,0,ChargeGrid,Operational,SYNTHETIC
+SIM-0423,Bengaluru,Karnataka,Bengaluru Green Mobility Station 023,13.034442,77.595731,Bharat DC-001,15,6,1,GreenPlug,Operational,SYNTHETIC
+SIM-0424,Bengaluru,Karnataka,Bengaluru Charging Point 024,12.848673,77.61477,CCS2,120,2,2,ChargeGrid,Operational,SYNTHETIC
+SIM-0425,Bengaluru,Karnataka,Bengaluru Rapid Charge 025,12.93189,77.607259,Type 2,22,6,0,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0426,Bengaluru,Karnataka,Bengaluru Green Mobility Station 026,12.986825,77.518382,Type 2,7,8,6,GreenPlug,Operational,SYNTHETIC
+SIM-0427,Bengaluru,Karnataka,Bengaluru Green Mobility Station 027,12.930063,77.43998,Type 2,7,6,4,ChargeGrid,Operational,SYNTHETIC
+SIM-0428,Bengaluru,Karnataka,Bengaluru Green Mobility Station 028,13.041184,77.59598,CCS2,50,6,3,VoltWay,Operational,SYNTHETIC
+SIM-0429,Bengaluru,Karnataka,Bengaluru Charging Point 029,13.011532,77.660594,CCS2,60,2,1,CityCharge,Operational,SYNTHETIC
+SIM-0430,Bengaluru,Karnataka,Bengaluru EV Hub 030,12.854551,77.537137,CCS2,60,2,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0431,Bengaluru,Karnataka,Bengaluru EV Hub 031,12.970091,77.611782,CCS2,50,2,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0432,Bengaluru,Karnataka,Bengaluru Green Mobility Station 032,13.083327,77.592767,CCS2,60,4,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0433,Bengaluru,Karnataka,Bengaluru Charging Point 033,12.98909,77.550336,Type 2,22,2,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0434,Bengaluru,Karnataka,Bengaluru Rapid Charge 034,12.960841,77.609234,Type 2,11,4,0,VoltWay,Operational,SYNTHETIC
+SIM-0435,Bengaluru,Karnataka,Bengaluru EV Hub 035,12.983809,77.672698,CCS2,30,8,2,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0436,Bengaluru,Karnataka,Bengaluru EV Hub 036,12.929445,77.526304,Type 2,11,2,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0437,Bengaluru,Karnataka,Bengaluru Rapid Charge 037,13.079737,77.50724,Bharat DC-001,15,4,0,VoltWay,Operational,SYNTHETIC
+SIM-0438,Bengaluru,Karnataka,Bengaluru Rapid Charge 038,13.01228,77.727786,Type 2,22,6,3,VoltWay,Operational,SYNTHETIC
+SIM-0439,Bengaluru,Karnataka,Bengaluru Charging Point 039,12.936897,77.654268,Bharat DC-001,15,8,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0440,Bengaluru,Karnataka,Bengaluru Rapid Charge 040,13.054168,77.617285,CCS2,50,2,0,GreenPlug,Operational,SYNTHETIC
+SIM-0441,Bengaluru,Karnataka,Bengaluru Green Mobility Station 041,12.896896,77.547137,Type 2,22,6,4,CityCharge,Operational,SYNTHETIC
+SIM-0442,Bengaluru,Karnataka,Bengaluru EV Hub 042,13.031637,77.622076,CCS2,120,6,4,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0443,Bengaluru,Karnataka,Bengaluru Rapid Charge 043,12.965053,77.544379,Type 2,11,2,1,VoltWay,Operational,SYNTHETIC
+SIM-0444,Bengaluru,Karnataka,Bengaluru Green Mobility Station 044,13.020494,77.674946,CCS2,120,4,1,CityCharge,Operational,SYNTHETIC
+SIM-0445,Bengaluru,Karnataka,Bengaluru Green Mobility Station 045,12.908992,77.569671,Bharat DC-001,15,2,0,CityCharge,Operational,SYNTHETIC
+SIM-0446,Bengaluru,Karnataka,Bengaluru Charging Point 046,13.107549,77.604224,Type 2,11,2,1,GreenPlug,Operational,SYNTHETIC
+SIM-0447,Bengaluru,Karnataka,Bengaluru Charging Point 047,12.925107,77.643085,Type 2,22,6,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0448,Bengaluru,Karnataka,Bengaluru EV Hub 048,12.971109,77.497221,CCS2,150,2,1,ChargeGrid,Operational,SYNTHETIC
+SIM-0449,Bengaluru,Karnataka,Bengaluru EV Hub 049,12.942867,77.568027,CCS2,120,8,8,CityCharge,Operational,SYNTHETIC
+SIM-0450,Bengaluru,Karnataka,Bengaluru Charging Point 050,13.039699,77.557064,CCS2,30,2,2,GreenPlug,Operational,SYNTHETIC
+SIM-0451,Bengaluru,Karnataka,Bengaluru Green Mobility Station 051,12.935493,77.708228,CHAdeMO,50,2,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0452,Bengaluru,Karnataka,Bengaluru EV Hub 052,12.967711,77.597121,CHAdeMO,60,4,4,ChargeGrid,Operational,SYNTHETIC
+SIM-0453,Bengaluru,Karnataka,Bengaluru Green Mobility Station 053,13.038452,77.685806,Bharat DC-001,15,2,0,ChargeGrid,Operational,SYNTHETIC
+SIM-0454,Bengaluru,Karnataka,Bengaluru Green Mobility Station 054,12.926273,77.524121,Type 2,11,4,2,ChargeGrid,Operational,SYNTHETIC
+SIM-0455,Bengaluru,Karnataka,Bengaluru Rapid Charge 055,13.002214,77.592191,CHAdeMO,60,4,0,E-Mobility Hub,Under Maintenance,SYNTHETIC
+SIM-0456,Bengaluru,Karnataka,Bengaluru Rapid Charge 056,12.974451,77.559404,CCS2,150,4,0,CityCharge,Operational,SYNTHETIC
+SIM-0457,Bengaluru,Karnataka,Bengaluru EV Hub 057,13.080071,77.583919,Type 2,11,2,2,VoltWay,Operational,SYNTHETIC
+SIM-0458,Bengaluru,Karnataka,Bengaluru Rapid Charge 058,12.992078,77.641762,Type 2,22,2,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0459,Bengaluru,Karnataka,Bengaluru Charging Point 059,12.994617,77.587035,Type 2,11,2,0,ChargeGrid,Operational,SYNTHETIC
+SIM-0460,Bengaluru,Karnataka,Bengaluru Green Mobility Station 060,12.933198,77.591689,CHAdeMO,50,4,3,GreenPlug,Operational,SYNTHETIC
+SIM-0461,Bengaluru,Karnataka,Bengaluru Charging Point 061,12.923417,77.559627,CCS2,30,4,1,GreenPlug,Operational,SYNTHETIC
+SIM-0462,Bengaluru,Karnataka,Bengaluru Green Mobility Station 062,12.973762,77.638443,CHAdeMO,50,2,2,ChargeGrid,Operational,SYNTHETIC
+SIM-0463,Bengaluru,Karnataka,Bengaluru EV Hub 063,12.917312,77.51005,CCS2,50,2,0,CityCharge,Operational,SYNTHETIC
+SIM-0464,Bengaluru,Karnataka,Bengaluru Charging Point 064,12.931822,77.574434,CCS2,30,2,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0465,Bengaluru,Karnataka,Bengaluru Green Mobility Station 065,12.965231,77.654345,Type 2,22,6,3,GreenPlug,Operational,SYNTHETIC
+SIM-0466,Bengaluru,Karnataka,Bengaluru EV Hub 066,13.035592,77.577318,CCS2,150,4,2,VoltWay,Operational,SYNTHETIC
+SIM-0467,Bengaluru,Karnataka,Bengaluru EV Hub 067,13.027749,77.563651,Type 2,22,4,0,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0468,Bengaluru,Karnataka,Bengaluru Charging Point 068,12.997248,77.520272,Type 2,11,4,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0469,Bengaluru,Karnataka,Bengaluru Rapid Charge 069,12.880217,77.490517,CCS2,30,2,1,GreenPlug,Operational,SYNTHETIC
+SIM-0470,Bengaluru,Karnataka,Bengaluru EV Hub 070,12.90021,77.629344,CCS2,50,4,1,GreenPlug,Operational,SYNTHETIC
+SIM-0471,Bengaluru,Karnataka,Bengaluru Rapid Charge 071,12.94494,77.625405,Type 2,11,2,0,ChargeGrid,Operational,SYNTHETIC
+SIM-0472,Bengaluru,Karnataka,Bengaluru Green Mobility Station 072,12.924702,77.609249,CCS2,150,6,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0473,Bengaluru,Karnataka,Bengaluru Charging Point 073,13.019579,77.605089,Bharat DC-001,15,2,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0474,Bengaluru,Karnataka,Bengaluru Rapid Charge 074,12.99041,77.558057,CCS2,30,4,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0475,Bengaluru,Karnataka,Bengaluru Charging Point 075,12.989779,77.685577,Bharat DC-001,15,2,2,CityCharge,Operational,SYNTHETIC
+SIM-0476,Bengaluru,Karnataka,Bengaluru Rapid Charge 076,12.926583,77.655637,Type 2,11,2,1,ChargeGrid,Operational,SYNTHETIC
+SIM-0477,Bengaluru,Karnataka,Bengaluru EV Hub 077,13.02446,77.475514,CCS2,60,4,2,CityCharge,Operational,SYNTHETIC
+SIM-0478,Bengaluru,Karnataka,Bengaluru Green Mobility Station 078,13.043348,77.552805,Type 2,22,2,2,CityCharge,Operational,SYNTHETIC
+SIM-0479,Bengaluru,Karnataka,Bengaluru EV Hub 079,12.959657,77.610253,CCS2,30,2,0,ChargeGrid,Under Maintenance,SYNTHETIC
+SIM-0480,Bengaluru,Karnataka,Bengaluru EV Hub 080,12.968249,77.569688,CCS2,120,4,0,VoltWay,Under Maintenance,SYNTHETIC
+SIM-0481,Bengaluru,Karnataka,Bengaluru Rapid Charge 081,13.141468,77.623721,Type 2,7,6,6,GreenPlug,Operational,SYNTHETIC
+SIM-0482,Bengaluru,Karnataka,Bengaluru EV Hub 082,13.007219,77.58477,CCS2,50,8,5,CityCharge,Operational,SYNTHETIC
+SIM-0483,Bengaluru,Karnataka,Bengaluru Green Mobility Station 083,13.03404,77.638279,CCS2,30,4,4,GreenPlug,Operational,SYNTHETIC
+SIM-0484,Bengaluru,Karnataka,Bengaluru Rapid Charge 084,12.987215,77.627632,Bharat DC-001,15,4,1,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0485,Bengaluru,Karnataka,Bengaluru Green Mobility Station 085,12.867893,77.572166,CCS2,60,2,1,VoltWay,Operational,SYNTHETIC
+SIM-0486,Bengaluru,Karnataka,Bengaluru Charging Point 086,12.882058,77.574949,CCS2,30,8,4,CityCharge,Operational,SYNTHETIC
+SIM-0487,Bengaluru,Karnataka,Bengaluru Charging Point 087,12.985715,77.604623,Type 2,7,8,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0488,Bengaluru,Karnataka,Bengaluru Rapid Charge 088,12.927286,77.575119,CHAdeMO,60,2,0,VoltWay,Operational,SYNTHETIC
+SIM-0489,Bengaluru,Karnataka,Bengaluru Rapid Charge 089,12.980709,77.591442,Type 2,11,2,0,VoltWay,Operational,SYNTHETIC
+SIM-0490,Bengaluru,Karnataka,Bengaluru EV Hub 090,12.97325,77.578618,Type 2,22,2,0,CityCharge,Under Maintenance,SYNTHETIC
+SIM-0491,Bengaluru,Karnataka,Bengaluru EV Hub 091,12.939486,77.594133,CCS2,30,6,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0492,Bengaluru,Karnataka,Bengaluru Green Mobility Station 092,12.984022,77.612937,CCS2,60,2,1,CityCharge,Operational,SYNTHETIC
+SIM-0493,Bengaluru,Karnataka,Bengaluru Green Mobility Station 093,12.944066,77.50716,CCS2,60,8,7,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0494,Bengaluru,Karnataka,Bengaluru EV Hub 094,13.003708,77.628526,Type 2,11,6,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0495,Bengaluru,Karnataka,Bengaluru EV Hub 095,13.016972,77.554355,Type 2,22,4,2,CityCharge,Operational,SYNTHETIC
+SIM-0496,Bengaluru,Karnataka,Bengaluru Rapid Charge 096,12.951432,77.688919,CCS2,120,4,4,GreenPlug,Operational,SYNTHETIC
+SIM-0497,Bengaluru,Karnataka,Bengaluru Charging Point 097,12.860365,77.601904,Bharat DC-001,15,6,2,GreenPlug,Operational,SYNTHETIC
+SIM-0498,Bengaluru,Karnataka,Bengaluru Green Mobility Station 098,12.979113,77.663931,CCS2,120,6,0,E-Mobility Hub,Operational,SYNTHETIC
+SIM-0499,Bengaluru,Karnataka,Bengaluru EV Hub 099,12.992239,77.616094,CCS2,60,6,0,GreenPlug,Under Maintenance,SYNTHETIC
+SIM-0500,Bengaluru,Karnataka,Bengaluru Green Mobility Station 100,12.952851,77.600648,Type 2,7,4,0,E-Mobility Hub,Under Maintenance,SYNTHETIC
